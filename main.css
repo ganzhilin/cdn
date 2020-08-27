@@ -2312,11 +2312,11 @@ p > code {
 }.box-shadow-wrapper {
       box-shadow: none !important;
     }body {
-      cursor: url('https://cdn.jsdelivr.net/gh/ganzhilin/ganzhilin-imgs/images/hand/default.cur'), default;
+      cursor: url('https://cdn.jsdelivr.net/gh/ganzhilin/ganzhilin-imgs/images/hand/arrow.cur'), default;
     }a {
       cursor: url('https://cdn.jsdelivr.net/gh/ganzhilin/ganzhilin-imgs/images/hand/hand.cur'), pointer !important;
     }input, textarea, code {
-      cursor: url('https://cdn.jsdelivr.net/gh/ganzhilin/ganzhilin-imgs/images/hand/text.cur'), text !important;
+      cursor: url('https://cdn.jsdelivr.net/gh/ganzhilin/ganzhilin-imgs/images/hand/ibeam.cur'), text !important;
     }code > span.copy-code {
       cursor: pointer;
     }.post img {
